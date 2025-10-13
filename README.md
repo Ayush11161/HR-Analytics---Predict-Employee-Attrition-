@@ -109,11 +109,6 @@ Developed an **interactive dashboard** showing:
 
 ---
 
-##  Project Structure
-
-
----
-
 ##  Learning Outcomes
 - Built a complete **end-to-end data analysis and prediction pipeline**
 - Gained experience in **EDA, ML modeling, and interpretability**
