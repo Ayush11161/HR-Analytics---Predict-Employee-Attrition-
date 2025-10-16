@@ -55,9 +55,9 @@ The goal is to help organizations identify key factors that drive employee turno
 Trained and evaluated multiple classification algorithms:
 | Model | Accuracy | ROC-AUC | Key Notes |
 |--------|-----------|----------|------------|
-| Logistic Regression | ~83% | 0.87 | Simple, interpretable |
-| Decision Tree | ~85% | 0.88 | Captures nonlinear relations |
-| Random Forest | **87–89%** | **0.90+** | Best performing model |
+| Logistic Regression | ~75% | 0.8032 | Simple, interpretable |
+| Decision Tree | ~76% | 0.6105 | Captures nonlinear relations |
+| Random Forest | ~84% | 0.7832 | Best performing model |
 
 ### 5️. Model Explainability
 - Used **SHAP** to identify top predictors of attrition:
