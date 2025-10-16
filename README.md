@@ -121,7 +121,7 @@ Developed an **interactive dashboard** showing:
 **Ayush Rawat**  
 🎓 B.Tech Student | Data Analyst Enthusiast  
 📧 rawatayush608@gamil.com  
-💻 [GitHub Profile](https://github.com/Ayush11161) | [LinkedIn](https://linkedin.com/in/yourprofile)
+💻 [GitHub Profile](https://github.com/Ayush11161) | [LinkedIn](www.linkedin.com/in/ayush-rawat-817404252)
 
 ---
 
